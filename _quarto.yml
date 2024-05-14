@@ -3,16 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "PersonalWebsite"
+  title: "Emily Montes"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - aboutme!.qmd
+      - mycv.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#36454F"
+    linkcolor: "#702963"
+    monofont: courier new
     css: styles.css
     toc: true
 

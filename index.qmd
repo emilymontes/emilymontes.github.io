@@ -1,11 +1,28 @@
 ---
-title: "PersonalWebsite"
+title: "Emily Montes"
+image: mypicture.png
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope 
+      href: mailto:emilymontes@cpp.edu
+    - text: Linked In
+      icon: linkedin
+      href: www.linkedin.com/in/emily-montes-501119243
+  id: ppc
 ---
 
-This is a Quarto website.
+::: {#ppc}
+Hi! I'm Emily, a plant community ecology graduate student at Cal Poly Pomona in Dr. Erin Questad's lab.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+------------------------------------------------------------------------
 
-```{r}
+Learn about my life and research in the About Me! tab, then take a look at my CV!
 
-```
+------------------------------------------------------------------------
+
+![](calpolylogo.png)
+:::
