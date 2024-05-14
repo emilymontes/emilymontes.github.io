@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Emily Montes",
@@ -7,10 +14,17 @@
     "text": "Email\n  \n  \n    \n     Linked In\n  \n\n  \n  \nHi! I’m Emily, a plant community ecology graduate student at Cal Poly Pomona in Dr. Erin Questad’s lab.\n\nLearn about my life and research in the About Me! tab, then take a look at my CV!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "aboutme!.html",
+    "href": "aboutme!.html",
+    "title": "About Me!",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "As a Master’s Student in Biology at CPP, I am either TAing Bio 1220L, working on my thesis, taking classes, or outside doing fieldwork!\n\nBesides working on my M.S. degree I enjoy spending time with friends and family, camping, playing tennis, binge-watching Netflix shows, and traveling.\n\n\nCurrent Research\n\nLocated in the Santa Clara River Valley in Ventura County\nThe research I am doing in the Questad Lab aims to evaluate habitat quality metrics, including canopy structure and thermal characteristics, in orchards and natural areas along a riparian corridor to determine their influence on the ecological functions of species. I want to understand how structure in the landscape can influence temperature and habitat suitability. The main objectives of my research are to test how canopy structure differs from orchards to natural areas, measure thermal properties, and utilize remote sensing applications."
+  },
+  {
+    "objectID": "mycv.html",
+    "href": "mycv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
   }
 ]

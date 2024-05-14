@@ -14,11 +14,11 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: pulse
     mainfont: arial
-    fontsize: 1.5rem
-    fontcolor: "#36454F"
-    linkcolor: "#702963"
+    fontsize: 1.3rem
+    fontcolor: "#000000"
+    linkcolor: "#3498DB"
     monofont: courier new
     css: styles.css
     toc: true

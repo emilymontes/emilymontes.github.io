@@ -1,7 +1,26 @@
 ---
 title: "About Me!"
+about:
+  template: jolla
+  image: waterfallpic.png
 ---
 
-```{r}
+As a Master's Student in Biology at CPP, I am either TAing Bio 1220L, working on
+my thesis, taking classes, or outside doing fieldwork!
 
-```
+--------------------------------------------------------------------------------
+
+Besides working on my M.S. degree I enjoy spending time with friends and family,
+camping, playing tennis, binge-watching Netflix shows, and traveling.
+
+--------------------------------------------------------------------------------
+
+
+
+##### Current Research 
+
+***
+Located in the Santa Clara River Valley in Ventura County
+
+
+The research I am doing in the Questad Lab aims to evaluate habitat quality metrics, including canopy structure and thermal characteristics, in orchards and natural areas along a riparian corridor to determine their influence on the ecological functions of species. I want to understand how structure in the landscape can influence temperature and habitat suitability.  The main objectives of my research are to test how canopy structure differs from orchards to natural areas, measure thermal properties, and utilize remote sensing applications. 
