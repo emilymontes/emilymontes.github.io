@@ -16,7 +16,7 @@ about:
 ---
 
 ::: {#ppc}
-Hi! I'm Emily, a plant community ecology graduate student at Cal Poly Pomona in Dr. Erin Questad's lab.
+Hi! I'm Emily, a plant community ecology graduate student at Cal Poly Pomona in Dr. Erin Questad's lab!!
 
 ------------------------------------------------------------------------
 
