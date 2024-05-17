@@ -11,7 +11,7 @@ about:
       href: mailto:emilymontes@cpp.edu
     - text: Linked In
       icon: linkedin
-      href: www.linkedin.com/in/emily-montes-501119243
+      href: https://www.linkedin.com/in/emily-montes-501119243/
   id: ppc
 ---
 
